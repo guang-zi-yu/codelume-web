@@ -10,7 +10,7 @@ importers:
     dependencies:
       '@codelume/theme':
         specifier: github:guang-zi-yu/codelume-theme
-        version: https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/8624a5063b8e7777c5a66dd97810cbfd2b7982f1(@algolia/client-search@5.23.4)(search-insights@2.17.3)(vitepress@1.6.3(@algolia/client-search@5.23.4)(@types/node@22.14.1)(postcss@5.2.18)(search-insights@2.17.3)(typescript@5.8.3))(vue@3.5.13(typescript@5.8.3))
+        version: https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/76f08e9572c57ffc6f2d925e00ed5ab702565b5d(@algolia/client-search@5.23.4)(search-insights@2.17.3)(vitepress@1.6.3(@algolia/client-search@5.23.4)(@types/node@22.14.1)(postcss@5.2.18)(search-insights@2.17.3)(typescript@5.8.3))(vue@3.5.13(typescript@5.8.3))
       '@vue/repl':
         specifier: ^4.4.2
         version: 4.5.1
@@ -181,8 +181,8 @@ packages:
     resolution: {integrity: sha512-H45s8fVLYjbhFH62dIJ3WtmJ6RSPt/3DRO0ZcT2SUiYiQyz3BLVb9ADEnLl91m74aQPS3AzzeajZHYOalWe3bg==}
     engines: {node: '>=6.9.0'}
 
-  '@codelume/theme@https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/8624a5063b8e7777c5a66dd97810cbfd2b7982f1':
-    resolution: {tarball: https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/8624a5063b8e7777c5a66dd97810cbfd2b7982f1}
+  '@codelume/theme@https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/76f08e9572c57ffc6f2d925e00ed5ab702565b5d':
+    resolution: {tarball: https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/76f08e9572c57ffc6f2d925e00ed5ab702565b5d}
     version: 1.0.0
     peerDependencies:
       vitepress: ^1.2.2
@@ -2531,7 +2531,7 @@ snapshots:
       '@babel/helper-string-parser': 7.25.9
       '@babel/helper-validator-identifier': 7.25.9
 
-  '@codelume/theme@https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/8624a5063b8e7777c5a66dd97810cbfd2b7982f1(@algolia/client-search@5.23.4)(search-insights@2.17.3)(vitepress@1.6.3(@algolia/client-search@5.23.4)(@types/node@22.14.1)(postcss@5.2.18)(search-insights@2.17.3)(typescript@5.8.3))(vue@3.5.13(typescript@5.8.3))':
+  '@codelume/theme@https://codeload.github.com/guang-zi-yu/codelume-theme/tar.gz/76f08e9572c57ffc6f2d925e00ed5ab702565b5d(@algolia/client-search@5.23.4)(search-insights@2.17.3)(vitepress@1.6.3(@algolia/client-search@5.23.4)(@types/node@22.14.1)(postcss@5.2.18)(search-insights@2.17.3)(typescript@5.8.3))(vue@3.5.13(typescript@5.8.3))':
     dependencies:
       '@docsearch/css': 3.9.0
       '@docsearch/js': 3.9.0(@algolia/client-search@5.23.4)(search-insights@2.17.3)

@@ -122,7 +122,11 @@ export default defineConfigWithTheme<ThemeConfig>({
         link: 'https://github.com/lyke3028/CodeLume-Web#'
       },
       copyright:
-        'Copyright (c) 2025-present guangziyu.'
+        'Copyright (c) 2025-present guangziyu.',
+      recordNumber: {
+        text: '皖ICP备2025083092号',
+        link: 'https://beian.miit.gov.cn/'
+      }
     }
   },
 
